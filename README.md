@@ -14,7 +14,7 @@ This is a React application that demonstrates the use of state management and fu
 ### Files
 - **Counter.js**: Contains the `Counter` component with the counter logic and buttons for interaction.
 - **App.js**: Renders the `Counter` component and displays the app UI.
-- **App.test.js**: 
+- **App.test.js**: contains the test cases for verifying the behavior in the `App` and `Counter` components.
 
 ### How to Run
 - clone the repository: https://github.com/katrina-l-hill/counter_comp_state_mgmt_react
